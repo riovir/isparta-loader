@@ -9,7 +9,8 @@
   "main": "index.js",
   "files": [ "index.js" ],
   "dependencies": {
-    "isparta": "4.x.x"
+    "isparta": "4.x.x",
+    "loader-utils": "^0.2.16"
   },
   "engines": {
     "node": ">=0.10.0"
